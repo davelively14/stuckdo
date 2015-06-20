@@ -39,4 +39,7 @@
       <primary-key columns="id"/>
     </table>
   </data-source>
+  <data-source name="Rails stuckdo: production" uuid="ba8af187-786e-4b71-ba54-4bf7a14595bf">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>
